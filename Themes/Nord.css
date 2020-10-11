@@ -90,7 +90,8 @@ meta.text.invisible {
   color: #4c566a;
 }
 meta.text.selected {
-  color: #333a4c;
+  background-color: #BF616A;
+  color: #2E3440;
 }
 /* Cursor */
 meta.cursor {
@@ -237,7 +238,7 @@ markup.list.item {
   color: #8fbcbb;
 }
 markup.code {
-  background-color: #d08770;
+  background-color: #3B4252;
 }
 
 /* Types */
